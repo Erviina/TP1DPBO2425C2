@@ -1,11 +1,11 @@
 Saya Ervina Kusnanda dengan NIM 2409082 mengerjakan Tugas Praktikum 
 dalam mata kuliah Desain Pemogramana Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-Misalnya sebuah toko elektronik yang memiliki banyak produk. Setiap produk punya informasi penting yaitu ID, nama, merek, kategori, harga dan jumlah stok. Sebagai pemilik toko atau pegawai, ingin mencatat semua produk, menambah produk baru, mengubah data, meghapus produk yang sudah tidak dijual dan mencari produk dengan cepat. Orang lain tidak bisa mengacak data penting toko. 
+Misalnya sebuah toko elektronik mempunyai banyak produk. Setiap produk punya informasi penting yaitu ID, nama, merek, kategori, harga dan jumlah stok. Sebagai pemilik toko atau pegawai, ingin mencatat semua produk, menambah produk baru, mengubah data, meghapus produk yang sudah tidak dijual dan mencari produk dengan cepat. Orang lain tidak bisa mengacak data penting toko. 
 
-Dibuatlah program ini. Setiap produk di simpan pada sebuah wadah bernama Produk, yg berisi informasi tentang produk tersebut. Wadah ini bersifat private, hanya pemilik atau pegawai toko yg bisa membuka dan mengubah isinya.
+Dibuatlah desain ini. Setiap produk di simpan pada sebuah wadah bernama Produk, yg berisi informasi tentang produk tersebut. Wadah ini bersifat private, hanya pemilik atau pegawai toko yg bisa membuka dan mengubah isinya.
 
-Desain ini di buat untuk dapat :
+Yang bisa dilakukan :
     - Menyimpan daftar produk elektronik.
     - Menampilkan daftar produk.
     - Menambahkan produk baru.
@@ -28,7 +28,7 @@ Untuk pengisian data produk dibuat constructor agar tidak perlu mengetik atribut
 
 Alur program : 
 
-Program ini seperti seorang asisten di toko. Dia selalu menunggu instruksi dari pemilik atau pegawai. Setiap kali kita menyalakan program, ia akan menampilkan menu pilihan:
+Program ini seperti seorang asisten di toko. Dia selalu menunggu instruksi dari pemilik atau pegawai. Setiap kali kita menjalankan program, ia akan menampilkan menu pilihan:
     1. Tambah Data
     2. Tampilkan Data
     3. Update Data
