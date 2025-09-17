@@ -46,4 +46,5 @@ Program ini seperti seorang asisten di toko. Dia selalu menunggu instruksi dari 
 
 Program menyimpan semua data di array statis dengan kapasitas maksimal 100 produk. Setiap kali menambah atau mengubah produk, program selalu memeriksa ID produk terlebih dahulu agar tidak ada produk duplikat, sehingga data tetap rapi dan akurat.
 
+### 1.Tambah data
 ![fitur tambah di c++](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/C%2B%2B%20fitur%201.png?raw=true)
