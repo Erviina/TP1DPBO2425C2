@@ -93,10 +93,27 @@ Program menyimpan semua data di array statis dengan kapasitas maksimal 100 produ
 ![fitur update di python](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/python%20fitur%203.png?raw=true)
 
 ### 4.hapus data python
-![fitur hapus di python](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/python%20fitur%204.pngraw=true)
+![fitur hapus di python](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/python%20fitur%204.png?raw=true)
 
 ### 5.cari data python
 ![fitur cari di python](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/python%20fitur%205.png?raw=true)
 
 ### 6.keluar python
 ![fitur keluar di python](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/python%20fitur%206.png?raw=true)
+
+### 1.Tambah data php
+![fitur tambah di php](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/Tambah%20data%20php.png?raw=true)
+
+### 2.Tampilkan data php
+![fitur Tampilkan di php](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/berhasil%20nambah%20php.png?raw=true)
+
+### 3.update data php
+![fitur update di php](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/berhasil%20update%20php.png?raw=true)
+
+### 4.hapus data php
+![fitur hapus di php](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/berhasil%20hapus%20php.png?raw=true)
+
+### 5.cari data php
+![fitur cari di php](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/cari%20dengan%20ID%20php.png?raw=true)
+
+
