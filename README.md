@@ -63,3 +63,40 @@ Program menyimpan semua data di array statis dengan kapasitas maksimal 100 produ
 
 ### 6. keluar C++
 ![fitur keluar di c++](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/C%2B%2B%20fitur%206.png?raw=true)
+
+
+### 1.Tambah data java
+![fitur tambah di java](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/java%20fitur%201.png?raw=true)
+
+### 2.Tampilkan data java
+![fitur Tampilkan di java](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/java%20fitur%202.png?raw=true)
+
+### 3.update data java
+![fitur update di java](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/java%20fitur%203.png?raw=true)
+
+### 4.hapus data java
+![fitur hapus di java](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/java%20fitur%204.png?raw=true)
+
+### 5.cari data java
+![fitur cari di java](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/java%20fitur%205.png?raw=true)
+
+### 6.keluar java
+![fitur keluar di java](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/java%20fitur%206.png?raw=true)
+
+### 1.Tambah data python
+![fitur tambah di python](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/python%20fitur%201.png?raw=true)
+
+### 2.Tampilkan data python
+![fitur Tampilkan di python](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/python%20fitur%202.png?raw=true)
+
+### 3.update data python
+![fitur update di python](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/python%20fitur%203.png?raw=true)
+
+### 4.hapus data python
+![fitur hapus di python](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/python%20fitur%204.pngraw=true)
+
+### 5.cari data python
+![fitur cari di python](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/python%20fitur%205.png?raw=true)
+
+### 6.keluar python
+![fitur keluar di python](https://github.com/Erviina/TP1DPBO2425C2/blob/main/Dokumen/python%20fitur%206.png?raw=true)
